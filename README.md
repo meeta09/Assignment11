@@ -1,3 +1,3 @@
 # Assignment11
  
-* CS648 - Vectacorp Webpage *
+* CS648 - Vectacorp Webpage 
